@@ -13,3 +13,4 @@ cargo build --release
 ```
 This will produce a DLL file in `target/release/red4ext_rs_example.dll`.
 It needs to be placed in `Cyberpunk 2077/red4ext/plugins` for RED4ext.
+# Test
